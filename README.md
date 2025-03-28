@@ -3,5 +3,5 @@
 ##
 ##
 ##
-## Bennenungs Lexicon meiner Funktionen:
+## Benennennungs Lexicon meiner Funktionen:
 
