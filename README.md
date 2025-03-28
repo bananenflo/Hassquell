@@ -4,6 +4,7 @@
 ##
 ##
 ##
+
 ## Benennennungs Lexicon meiner Funktionen:
 <pre>
 \ Int \               = Integer
