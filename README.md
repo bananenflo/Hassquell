@@ -5,23 +5,23 @@
 ##
 ## Benennennungs Lexicon meiner Funktionen:
 <pre>
-\ Int \
- \ Str \
-  \ Flt \
-   \ Chr \
-    \ Lst \
-     \ Elm \
-      \ Wrd \
-       \ frs \
-        \ dlt \
-         \ get \
-          \ swz \
-           \ Lns \
-            \ frm \
-             \ dup \
-              \ isn \
-               \ rvs \
-                \  2  \
+\ Int \               = Integer
+ \ Str \               = String
+  \ Flt \               = Float
+   \ Chr \               = Character
+    \ Lst \               = List
+     \ Elm \               = Element
+      \ Wrd \               = Word
+       \ frs \               = first
+        \ dlt \               = delete
+         \ get \               = get
+          \ swz \               = tail
+           \ Lns \               = Lines
+            \ frm \               = from
+             \ dup \               = duplicates
+              \ isn \               = is in
+               \ rvs \               = reverse
+                \  2  \               = to
 </pre>
  
 Int = Integer \ Str = String \ Flt = Float \
