@@ -4,6 +4,7 @@
 ##
 ##
 ## Benennennungs Lexicon meiner Funktionen:
+<pre>
 \ Int \
  \ Str \
   \ Flt \
@@ -21,7 +22,8 @@
               \ isn \
                \ rvs \
                 \  2  \
-
+</pre>
+ 
 Int = Integer \ Str = String \ Flt = Float \
 Chr = Character \ Lst = Liste \ Elm = Element \
 Wrd = Word \ frs = first 
