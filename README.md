@@ -24,6 +24,7 @@
               \ isn \               = is in
                \ rvs \               = reverse
                 \  2  \               = to
+                 \ anz \               = anzahl
 </pre>**
  
 Int = Integer \ Str = String \ Flt = Float \
