@@ -1,4 +1,5 @@
 # Hassquell
+> [!CAUTION]
 > ### *Hassquell, die Quelle des Hasses! Sprache der Funktionen, doch nichts Funktioniert! HILFE!*
 ##
 ##
@@ -22,7 +23,7 @@
               \ isn \               = is in
                \ rvs \               = reverse
                 \  2  \               = to
-</pre>
+</pre>**
  
 Int = Integer \ Str = String \ Flt = Float \
 Chr = Character \ Lst = Liste \ Elm = Element \
