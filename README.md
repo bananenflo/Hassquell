@@ -15,6 +15,12 @@
         \ dlt \
          \ get \
           \ swz \
+           \ Lns \
+            \ frm \
+             \ dup \
+              \ isn \
+               \ rvs \
+                \  2  \
 
 Int = Integer \ Str = String \ Flt = Float \
 Chr = Character \ Lst = Liste \ Elm = Element \
