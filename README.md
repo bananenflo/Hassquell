@@ -18,6 +18,7 @@
         \ dlt \               = delete
              \at \            = delete at        
          \ get \               = get
+               \by \           = get by
           \ swz \               = tail
            \ Lns \               = Lines
             \ frm \               = from
