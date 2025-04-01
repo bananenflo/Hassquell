@@ -27,5 +27,6 @@
                  \ anz \               = anzahl
                   \ max \               = maximum
                    \ min \               = minimum
+                    \ idx \               = index
 </pre>
  
