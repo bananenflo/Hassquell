@@ -16,6 +16,7 @@
       \ Wrd \               = Word
        \ frs \               = first
         \ dlt \               = delete
+             \at \            = at        
          \ get \               = get
           \ swz \               = tail
            \ Lns \               = Lines
