@@ -25,5 +25,7 @@
                \ rvs \               = reverse
                 \  2  \               = to
                  \ anz \               = anzahl
+                  \ max \               = maximum
+                   \ min \               = minimum
 </pre>
  
