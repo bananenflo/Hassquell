@@ -25,5 +25,5 @@
                \ rvs \               = reverse
                 \  2  \               = to
                  \ anz \               = anzahl
-</pre>**
+</pre>
  
